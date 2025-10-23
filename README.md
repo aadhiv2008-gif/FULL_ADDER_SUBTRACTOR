@@ -1,7 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbd8370a-0fc7-4a4c-bc90-21be89298753" /># FULL_ADDER_SUBTRACTOR
-
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
-
 **AIM:**
 
 To design a Full Adder and Full Subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -71,9 +67,11 @@ endmodule
 <img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/cc9abb61-e3f1-4bf7-ad0a-51c2146bc2f4" />
 
 **Output Timing Waveform**
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/078e1f21-ab96-4940-8645-95956f070405" />
+
 <img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/61ca2c32-641f-49b7-8f6f-1b43cfae6ea5" />
 
-<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/c052d93b-b45a-4874-bf8f-fdee202920e4" />
+
 
 **Result:**
 
